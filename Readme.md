@@ -1,5 +1,7 @@
 # Учебный проект «Барбершоп»
 
+Ссылка на Github Pages: https://magenta-hm.github.io/349789-barbershop/
+
 * Студент: [Татьяна Керимова](https://up.htmlacademy.ru/htmlcss/20/user/349789).
 
 ---
